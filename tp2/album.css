@@ -1,0 +1,30 @@
+.root {
+  --jumbotron-padding-y: 3rem;
+} /* la hauteur entre la nav bar et Album example */
+
+.photo1 {
+  width:348px;
+  height:348px;
+}
+.photo2 {
+  width:348px;
+  height:348px;
+}.photo3 {
+  width:348px;
+  height:348px;
+}.photo4 {
+  width:348px;
+  height:348px;
+}.photo5 {
+  width:348px;
+  height:348px;
+}.photo6 {
+  width:348px;
+  height:348px;
+}.photo7 {
+  width:348px;
+  height:348px;
+}.photo8 {
+  width:348px;
+  height:348px;
+}
